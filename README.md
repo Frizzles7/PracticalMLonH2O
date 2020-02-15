@@ -11,3 +11,9 @@ Files from the Practical Machine Learning on H2O course on Coursera
 - [Week 2 - Importing Data](week2_importing.ipynb): Sample code importing artificial data
 - [Week 2 - Overfitting](week2_artificial_data.ipynb): Examples using train/valid/test and cross validation showing the effects of overfitting a model
 - [Week 2 - Assignment](week2_assignment.ipynb): Assignment to create artificial data and create a default model and an overfitting model
+
+## Week 3:
+- [Week 3 - GLMs for Exploration](week3_glm_smoking.ipynb): Example using GLM to do data exploration on smoking data
+- [Week 3 - Naive Bayes](week3_naive_bayes.ipynb): Example using Naive Bayes on Iris
+- [Week 3 - Data Manipulation](week3_data_manipulation.ipynb): Examples of how to manipulate data within H2O using airlines data
+- [Week 3 - Grid Search](week3_grid_search.ipynb): Examples of performing grid searches on a GLM using airlines data
