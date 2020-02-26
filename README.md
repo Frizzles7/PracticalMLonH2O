@@ -25,3 +25,11 @@ Files from the Practical Machine Learning on H2O course on Coursera
 - [Week 4 - Deep Learning Regression](week4_regression_deep_learning.ipynb): Examples of how to use deep learning to also build regression models using airlines data
 - [Week 4 - Assignment](week4_assignment.ipynb): Assignment to create a classification model using deep learning, comparing a default model to a tuned model using cacao dataset
 
+## Week 5:
+- [Week 5 - Handling Missing Data](week5_missing_data.ipynb): Example strategies for dealing with missing data using the airlines data
+- [Week 5 - PCA and GLRM](week5_pca_glrm.ipynb): Examples of how to use PCA and GLRM with the iris dataset
+- [Week 5 - Autoencoders](week5_autoencoders.ipynb): Examples of using autoencoders, deep features, and anomalies on the iris dataset
+
+## Week 6:
+ - [Week 6 - Stacked Ensembles](week6_stacked_ensembles.ipynb): Examples building stacked ensembles using the airlines data
+ - [Week 6 - Assignment](week6_assignment.ipynb): Assignment to create an ensemble model using four models of at least three different model types on a house price dataset
